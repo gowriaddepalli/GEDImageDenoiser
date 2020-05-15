@@ -41,4 +41,10 @@ larger than 5 | 0.83179394
 
 Step2: After knowing what beta value does your picture have (which folder to use), to get the denoised picture, you can run getDenoisedImage2.ipynb to get it.
 
-Please contact tz1280@nyu.edu if you have any questions. Thank you!
+Team Members:
+
+- Tianyu Zhang - tz1280@nyu.edu
+- Sree Gowri Addepalli - sga297@nyu.edu
+- Hui Wang - hw1832@nyu.edu
+
+Advisor: Dr. Rob Fergus
